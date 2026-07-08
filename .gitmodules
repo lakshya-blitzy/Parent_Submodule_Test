@@ -1,0 +1,6 @@
+[submodule "Backend_Submodule_Do_Not_Delete"]
+	path = Backend_Submodule_Do_Not_Delete
+	url = https://github.com/lakshya-blitzy/Backend_Submodule_Do_Not_Delete.git
+[submodule "Frontend_Submodule_Do_Not_Delete"]
+	path = Frontend_Submodule_Do_Not_Delete
+	url = https://github.com/lakshya-blitzy/Frontend_Submodule_Do_Not_Delete.git
